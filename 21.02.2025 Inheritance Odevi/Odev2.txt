@@ -1,0 +1,18 @@
+ABSTRACT CLASS
+Abstract sınıf, nesne yönelimli programlamada (OOP) kullanılan bir kavramdır. Soyut sınıf olarak da adlandırılır ve doğrudan bir nesne
+olarak yaratılması mümkün değildir. Soyut sınıflar, alt sınıflar tarafından kalıtım yoluyla kullanılmak üzere ortak bir arayüz veya temel
+işlevsellik sağlar.
+
+ABSTRACTION
+Bilgisayar bilimlerinde soyutlama, daha çok nesne yönelimli programlama ile ön plana çıkar. Nesne tanımlanırken verinin kulanılması veya
+veriye erişilmesi için gerekli detayların azaltılması işlemidir.
+Örnek olarak bir "kişi" nesnesinde, kişinin yaşını tutan bir tam sayı değişkeni olan "yas" değişkenini ele alalım. Bu "yas" değişkenine,
+programın çalıştırma anında, "-10" gibi bir değer atanmasını kimse engelleyemez. İşte burada nesne yönelimli programlamanın getirdiği
+görünürlük ve özellik tanımlama gibi yetenekler kullanarak "yas" değerine gerçek bir değerin girilmesi garanti edilebilir. İşte buna
+veri soyutlaması adı verilir.
+
+POLYMORPHISM
+Polymorphism, nesne yönelimli programlamada (OOP) önemli bir kavramdır. Türkçeye çok biçimlilik olarak çevrilebilir. Polymorphism,
+aynı isimdeki bir fonksiyon veya metodun farklı şekillerde çalışabilmesi anlamına gelir. Bu durum, yazılım geliştirmede esneklik ve
+genişletilebilirlik sağlar.
+
