@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 2\\abstracts\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|solutionrelative:abstracts\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 2\\abstracts\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|solutionrelative:abstracts\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 2\\abstracts\\yazilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|solutionrelative:abstracts\\yazilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 2\\abstracts\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|solutionrelative:abstracts\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 2\\abstracts\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E0D3C9-C57A-418A-AC4E-48935D56B308}|Odev 2.csproj|solutionrelative:abstracts\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Mudur.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Mudur.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Mudur.cs",
+              "RelativeToolTip": "Abstracts\\Mudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:29:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Stajyer.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Stajyer.cs",
+              "RelativeToolTip": "Abstracts\\Stajyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:30:59.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yazilimci.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Yazilimci.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Yazilimci.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Yazilimci.cs",
+              "RelativeToolTip": "Abstracts\\Yazilimci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:30:23.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenelMudur.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\GenelMudur.cs",
+              "RelativeDocumentMoniker": "Abstracts\\GenelMudur.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\GenelMudur.cs",
+              "RelativeToolTip": "Abstracts\\GenelMudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:28:16.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Calisan.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Calisan.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Abstracts\\Calisan.cs",
+              "RelativeToolTip": "Abstracts\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:26:59.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:25:29.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

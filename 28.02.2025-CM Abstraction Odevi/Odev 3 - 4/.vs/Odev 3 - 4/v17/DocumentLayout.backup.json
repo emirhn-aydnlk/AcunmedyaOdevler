@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\abstracts\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:abstracts\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\abstracts\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:abstracts\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\abstracts\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:abstracts\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\interfaces\\iozellik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:interfaces\\iozellik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\abstracts\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:abstracts\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\28.02.2025-cm abstraction \u00F6devi\\odev 3 - 4\\odev 3 - 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{936B3506-9C6A-4012-BF8E-A7CFE359671C}|Odev 3 - 4.csproj|solutionrelative:odev 3 - 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOzellik.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Interfaces\\IOzellik.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOzellik.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Interfaces\\IOzellik.cs",
+              "RelativeToolTip": "Interfaces\\IOzellik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:04:17.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Porsche.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Porsche.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Porsche.cs",
+              "RelativeToolTip": "Abstracts\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:03:48.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Mercedes.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Mercedes.cs",
+              "RelativeToolTip": "Abstracts\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:03:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Bmw.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Bmw.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Bmw.cs",
+              "RelativeToolTip": "Abstracts\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:02:40.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Araba.cs",
+              "RelativeDocumentMoniker": "Abstracts\\Araba.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Abstracts\\Araba.cs",
+              "RelativeToolTip": "Abstracts\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:01:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Odev 3 - 4",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Odev 3 - 4.csproj",
+              "RelativeDocumentMoniker": "Odev 3 - 4.csproj",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Odev 3 - 4.csproj",
+              "RelativeToolTip": "Odev 3 - 4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T18:00:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\28.02.2025-CM Abstraction \u00D6devi\\Odev 3 - 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:48:37.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

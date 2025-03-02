@@ -1,0 +1,14 @@
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\bin\Debug\net8.0\Odev 3 - 4.exe
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\bin\Debug\net8.0\Odev 3 - 4.deps.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\bin\Debug\net8.0\Odev 3 - 4.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\bin\Debug\net8.0\Odev 3 - 4.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\bin\Debug\net8.0\Odev 3 - 4.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\refint\Odev 3 - 4.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\Odev 3 - 4.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\28.02.2025-CM Abstraction Ödevi\Odev 3 - 4\obj\Debug\net8.0\ref\Odev 3 - 4.dll
