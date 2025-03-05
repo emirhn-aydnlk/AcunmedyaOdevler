@@ -1,0 +1,15 @@
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.sourcelink.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\bin\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.exe
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\bin\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.deps.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\bin\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\bin\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\bin\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\refint\03.03.2025-31.03.2025 Simple Calculator.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\03.03.2025-31.03.2025 Simple Calculator.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Simple Calculator\obj\Debug\net8.0\ref\03.03.2025-31.03.2025 Simple Calculator.dll
