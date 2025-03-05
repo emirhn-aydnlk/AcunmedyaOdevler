@@ -1,0 +1,15 @@
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\bin\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.exe
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\bin\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.deps.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\bin\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\bin\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\bin\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.sourcelink.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\refint\03.03.2025-31.03.2025 Merhaba, Dunya!.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\03.03.2025-31.03.2025 Merhaba, Dunya!.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\03.03.2025-31.03.2025 Merhaba, Dunya!\obj\Debug\net8.0\ref\03.03.2025-31.03.2025 Merhaba, Dunya!.dll
