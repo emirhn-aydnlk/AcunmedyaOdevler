@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Access Modifiers \u0026 Variables\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4675B0B1-C85C-4CF1-836E-B7B666327EB2}|ConsoleApp1.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\access modifiers \u0026 variables\\consoleapp1\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675B0B1-C85C-4CF1-836E-B7B666327EB2}|ConsoleApp1.csproj|solutionrelative:kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675B0B1-C85C-4CF1-836E-B7B666327EB2}|ConsoleApp1.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\access modifiers \u0026 variables\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675B0B1-C85C-4CF1-836E-B7B666327EB2}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Access Modifiers \u0026 Variables\\ConsoleApp1\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Access Modifiers \u0026 Variables\\ConsoleApp1\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "Kullan\u0131c\u0131.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:02:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Access Modifiers \u0026 Variables\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Access Modifiers \u0026 Variables\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:01:47.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
