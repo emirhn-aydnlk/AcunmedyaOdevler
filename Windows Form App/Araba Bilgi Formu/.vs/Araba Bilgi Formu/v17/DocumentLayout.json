@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{630AA544-25F4-4B91-A0A8-C5E78C55E04B}|Araba Bilgi Formu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630AA544-25F4-4B91-A0A8-C5E78C55E04B}|Araba Bilgi Formu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\windows form app\\araba bilgi formu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630AA544-25F4-4B91-A0A8-C5E78C55E04B}|Araba Bilgi Formu.csproj|C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Windows Form App\\Araba Bilgi Formu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630AA544-25F4-4B91-A0A8-C5E78C55E04B}|Araba Bilgi Formu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Windows Form App\\Araba Bilgi Formu\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:24:05.31Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Windows Form App\\Araba Bilgi Formu\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:17:00.994Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-07T11:17:00.994Z"
             }
           ]
         }

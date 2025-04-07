@@ -19,12 +19,15 @@ namespace Araba_Bilgi_Formu
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //textboxlardan aldığımız bilgileri değişkenlere kaydediyoruz
             string markasi = marka.Text;
             string modeli = model.Text;
             string rengi = renk.Text;
             int kapi = Convert.ToInt32(kapiSayisi.Text);
             int pencere = Convert.ToInt32(pencereSayisi.Text);
             double tuketim = Convert.ToDouble(yakitTuketimi.Text);
+
+            //messagebox ile bilgileri gösteriyoruz
             MessageBox.Show("Marka: " + markasi + "\n" +
                             "Model: " + modeli + "\n" +
                             "Renk: " + rengi + "\n" +
