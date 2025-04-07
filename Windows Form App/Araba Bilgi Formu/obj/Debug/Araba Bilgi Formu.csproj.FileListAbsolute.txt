@@ -1,0 +1,10 @@
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\bin\Debug\Araba Bilgi Formu.exe.config
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\bin\Debug\Araba Bilgi Formu.exe
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\bin\Debug\Araba Bilgi Formu.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba Bilgi Formu.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba_Bilgi_Formu.Form1.resources
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba_Bilgi_Formu.Properties.Resources.resources
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba Bilgi Formu.csproj.GenerateResource.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba Bilgi Formu.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba Bilgi Formu.exe
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\Araba Bilgi Formu\obj\Debug\Araba Bilgi Formu.pdb
