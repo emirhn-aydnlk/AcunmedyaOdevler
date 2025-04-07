@@ -1,0 +1,15 @@
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\bin\Debug\net8.0\GenericList.exe
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\bin\Debug\net8.0\GenericList.deps.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\bin\Debug\net8.0\GenericList.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\bin\Debug\net8.0\GenericList.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\bin\Debug\net8.0\GenericList.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.sourcelink.json
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\refint\GenericList.dll
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.pdb
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\GenericList.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Ders\Acun Medya Akademi\AcunmedyaOdevler\Windows Form App\GenericList\obj\Debug\net8.0\ref\GenericList.dll
