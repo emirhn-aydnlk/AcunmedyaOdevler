@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\custom attribute\\ogrencibilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\custom attribute\\ogrencibilgiformu\\zorunlualankontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:zorunlualankontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\custom attribute\\ogrencibilgiformu\\zorunlualanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:zorunlualanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\custom attribute\\ogrencibilgiformu\\ogrencibilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:ogrencibilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\custom attribute\\ogrencibilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\OgrenciBilgileri.cs",
+              "RelativeDocumentMoniker": "OgrenciBilgileri.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\OgrenciBilgileri.cs",
+              "RelativeToolTip": "OgrenciBilgileri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:43:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZorunluAlanKontrolu.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\ZorunluAlanKontrolu.cs",
+              "RelativeDocumentMoniker": "ZorunluAlanKontrolu.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\ZorunluAlanKontrolu.cs",
+              "RelativeToolTip": "ZorunluAlanKontrolu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:41:55.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZorunluAlanAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\ZorunluAlanAttribute.cs",
+              "RelativeDocumentMoniker": "ZorunluAlanAttribute.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\ZorunluAlanAttribute.cs",
+              "RelativeToolTip": "ZorunluAlanAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:40:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:37:09.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:32:46.789Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
