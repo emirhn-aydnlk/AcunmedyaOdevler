@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:ogrencibilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\custom attribute\\ogrencibilgiformu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2F20900-C95C-4EB4-849A-E9616EE42A12}|OgrenciBilgiFormu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "OgrenciBilgileri.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:43:17.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T14:43:17.384Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ZorunluAlanKontrolu.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA5wCEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:41:55.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T14:41:55.036Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "ZorunluAlanAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:40:39.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T14:40:39.439Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Custom Attribute\\OgrenciBilgiFormu\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:32:46.789Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-27T14:32:46.789Z"
             }
           ]
         }
