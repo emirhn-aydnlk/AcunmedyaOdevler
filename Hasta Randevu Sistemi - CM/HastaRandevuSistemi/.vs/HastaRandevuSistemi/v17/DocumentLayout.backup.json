@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\hasta randevu sistemi - cm\\hastarandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\hasta randevu sistemi - cm\\hastarandevusistemi\\models\\branslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|solutionrelative:models\\branslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|c:\\users\\emirhan\\desktop\\ders\\acun medya akademi\\acunmedyaodevler\\hasta randevu sistemi - cm\\hastarandevusistemi\\models\\doktorlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A8F428-5A38-4060-9D6D-AC771A7F0FEB}|HastaRandevuSistemi.csproj|solutionrelative:models\\doktorlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doktorlar.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Models\\Doktorlar.cs",
+              "RelativeDocumentMoniker": "Models\\Doktorlar.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Models\\Doktorlar.cs",
+              "RelativeToolTip": "Models\\Doktorlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:27:05.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Branslar.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Models\\Branslar.cs",
+              "RelativeDocumentMoniker": "Models\\Branslar.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Models\\Branslar.cs",
+              "RelativeToolTip": "Models\\Branslar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:51:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAQwMYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:40:46.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\Ders\\Acun Medya Akademi\\AcunmedyaOdevler\\Hasta Randevu Sistemi - CM\\HastaRandevuSistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:29:02.306Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
